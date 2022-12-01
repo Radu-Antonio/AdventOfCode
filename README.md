@@ -2,4 +2,4 @@
 
 Here I will put my solutions to the _advent of code_ challenge.
 
-I will use Python/C++/Haskell
+I will use Python/C++/Haskell.
